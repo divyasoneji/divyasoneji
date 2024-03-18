@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Soneji</h1>
-<h3 align="center">I'm currently studying Computer Science @ Simon Fraser Univeristy 🎉Graduating December 2023🎉 with a passion for Software Development and Engineering</h3>
+<h3 align="center">I’m a recent graduate of Simon Fraser University with a Bachelor's degree in Computer Science. My academic background has equipped me with the skills to meet the challenges of the rapidly-changing tech industry, and my passion for web application and android development keeps me motivated to stay up-to-date with the latest advancements in the field. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
