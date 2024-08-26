@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divya Soneji</h1>
-<h3 align="center">I’m a recent graduate of Simon Fraser University with a Bachelor's degree in Computer Science. My academic background has equipped me with the skills to meet the challenges of the rapidly-changing tech industry, and my passion for web application and android development keeps me motivated to stay up-to-date with the latest advancements in the field. </h3>
+I’m a recent graduate of Simon Fraser University with a Bachelor's degree in Computer Science. My academic background has equipped me with the skills to meet the challenges of the rapidly-changing tech industry, and my passion for web application and android development keeps me motivated to stay up-to-date with the latest advancements in the field.
+
+# Project Picks
+
+- [**PetWatch**](https://github.com/SFU-CMPT372-Team5/PetWatch): Final project for a 300-level course at SFU in which teams of 4 were tasked with creating a fullstack web application. Our team created a website to help pet owners reunite with their pet if they happen to roam outside the yard.
+- [**PlantCare**](https://github.com/CMPT362-PlantCare/PlantCare): Final project for a 300-level course at SFU in which teams of 4 were tasked with developing an Android mobile application. Our app simplifies plant care by allowing users to easily add, monitor, and nurture their plants, complete with personalized reminders and an extensive plant database.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
