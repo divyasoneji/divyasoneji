@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Soneji</h1>
-I’m a recent graduate of Simon Fraser University with a Bachelor's degree in Computer Science. My academic background has equipped me with the skills to meet the challenges of the rapidly-changing tech industry, and my passion for web application and android development keeps me motivated to stay up-to-date with the latest advancements in the field.
+I'm a Software Engineer with over two years of experience in developing scalable web and desktop applications. I'm proficient in C#, .NET, TypeScript, React, Python, and other technologies, and am committed to delivering high-quality solutions. I hold a Bachelor’s degree in Computer Science from Simon Fraser University, where I built a strong foundation in programming, web technologies, and system design. I'm strongly passionate about continuous learning and innovation, and I strive to create impactful and reliable software.
 
 # Project Picks
 
