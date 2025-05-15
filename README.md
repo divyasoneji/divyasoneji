@@ -23,8 +23,7 @@ Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3
 - Collaborated with end-users to optimize and automate workflows, develop new features, and resolve bugs.
 - Implemented **CI/CD workflows** with GitHub Actions for automated testing and release validation.  
 - Enhanced product code coverage by 25%+ using **NUnit tests** in C#.  
-- Designed scalable architectures with the **MVVM pattern**.  
-- Created intuitive UIs using **WPF (Windows Presentation Foundation)**.  
+- Created scalable and intuitive UIs by leveraging **WPF (Windows Presentation Foundation)** **MVVM architecture**.  
 
 ### **Software Intern**  
 **Fugro Canada** (May 2022 - Apr 2023)  
