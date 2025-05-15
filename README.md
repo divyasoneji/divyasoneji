@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3
 
 ## 🚀 Project Picks
 
-### **[PetWatch](https://github.com/SFU-CMPT372-Team5/PetWatch)**  
+### **[🔗 PetWatch](https://github.com/SFU-CMPT372-Team5/PetWatch)**  
 **Full-Stack** | Simon Fraser University (May 2023 - Aug 2023)  
 - Built a platform to locate lost pets using QR code scans.  
 - Utilized **Nuxt3** with **Vue.js** (frontend) and **Node.js** (backend).  
@@ -46,14 +46,14 @@ Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3
 - Enabled pet location tracking via **Google Maps API**.  
 - Hosted app and media on **GCP Compute Engine** and **Cloud Storage**.
 
-### **[CRADLE](https://github.com/drbfraser/CRADLE-Platform)**  
+### **[🔗 CRADLE](https://github.com/drbfraser/CRADLE-Platform)**  
 **Frontend** | SFU Special Research Projects (May 2023 - Aug 2023)  
 - Developed a **React & TypeScript** interface for automating form template creation.  
 - Created backend endpoints with **Python** and **Flask** for seamless data flow.  
 - Spearheaded weekly team meetings to align goals and resolve blockers.  
 - Authored an 8-page security report, addressing **OWASP Top 10 vulnerabilities**.
 
-### **[PlantCare](https://github.com/CMPT362-PlantCare/PlantCare)**  
+### **[🔗 PlantCare](https://github.com/CMPT362-PlantCare/PlantCare)**  
 **Android** | Simon Fraser University (Sept 2023 - December 2023)  
 - Designed and developed a user-friendly Android app to streamline plant care, enabling users to add plants, receive care instructions, and get timely reminders.
 - Integrated Firebase for real-time data storage, image hosting, and secure user authentication (sign-up/login).
