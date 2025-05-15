@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3
 - Spearheaded weekly team meetings to align goals and resolve blockers.  
 - Authored an 8-page security report, addressing **OWASP Top 10 vulnerabilities**.
 
-### **[🔗 PlantCare](https://github.com/CMPT362-PlantCare/PlantCare)**  | [Download the APK here!](https://cmpt362-plantcare.github.io/ShowcaseWebsite/PlantCare.zip)
-**Android** | Simon Fraser University (Sept 2023 - December 2023)  
+### **[🔗 PlantCare](https://github.com/CMPT362-PlantCare/PlantCare)**
+**Android** | Simon Fraser University (Sept 2023 - December 2023)  | [Click to download the APK!](https://cmpt362-plantcare.github.io/ShowcaseWebsite/PlantCare.zip)
 - Designed and developed a user-friendly Android app to streamline plant care, enabling users to add plants, receive care instructions, and get timely reminders.
 - Integrated Firebase for real-time data storage, image hosting, and secure user authentication (sign-up/login).
 - Built using **Kotlin**, following best practices and architecture guidelines from the **Google Developers** site to ensure scalability and maintainability.
