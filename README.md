@@ -18,19 +18,19 @@ Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3
 
 ### **Jr. Software Engineer**  
 **Fugro Marine USA** (Apr 2023 - Present)  
-- Developed geo-data-based desktop applications for Windows using **C#**.  
+- Built Windows desktop applications by integrating **React** with **Electron** to automate data-processing workflows for Fugro's proprietary survey systems.
+- Developed Windows applications to process and visualize survey data using **C#** & **.NET**.  
 - Implemented **CI/CD workflows** with GitHub Actions for automated testing and release validation.  
 - Enhanced product code coverage by 25%+ using **NUnit tests** in C#.  
 - Designed scalable architectures with the **MVVM pattern**.  
 - Created intuitive UIs using **WPF (Windows Presentation Foundation)**.  
-- Built cross-platform desktop apps by integrating **React** with **Electron**.
 
 ### **Software Intern**  
 **Fugro Canada** (May 2022 - Apr 2023)  
-- Created web apps for geo-data automation using **.NET**, **C#**, and **Angular**.  
+- Created web apps for automating data acquisition & approval procedures for on-shore workflows using **.NET**, **C#**, and **Angular**.  
 - Authored technical documentation and user guides to simplify app usage and maintenance.  
 - Supported QA with **TestRail** to ensure high-quality releases.  
-- Practiced agile development through sprints, daily stand-ups, and retrospectives.  
+- Practiced Agile development through sprints, daily stand-ups, and retrospectives.  
 - Rapidly prototyped desktop apps with **Electron.js**, boosting team efficiency.
 
 ---
