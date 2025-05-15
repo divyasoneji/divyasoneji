@@ -1,6 +1,6 @@
 # Hello, I'm Divya Soneji 👋
 
-Welcome to my GitHub profile! I'm a Software Engineer at Fugro with 3 years of experience in developing scalable web and desktop applications. I'm proficient in C#, .NET, TypeScript, React, and Python,and am committed to delivering high-quality solutions. I hold a Bachelor’s degree in Computer Science from Simon Fraser University. With 3 years of experience in the industry, I'm strongly passionate about continuous learning and creating impactful and reliable software.
+Welcome to my GitHub profile! I'm a Software Engineer at Fugro with 3 years of experience in developing scalable web and desktop applications. I'm proficient in C#, .NET, TypeScript, React, and Python, and am committed to delivering high-quality solutions. I hold a Bachelor’s degree in Computer Science from Simon Fraser University. With 3 years of experience in the industry, I'm strongly passionate about continuous learning and creating impactful and reliable software.
 
 ---
 
