@@ -1,4 +1,4 @@
-# Hi, I'm Divya Soneji 👋
+# Hello, I'm Divya Soneji 👋
 
 Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3 years of experience in developing scalable web and desktop applications. I'm proficient in C#, .NET, TypeScript, React, Python, and other technologies, and am committed to delivering high-quality solutions. I hold a Bachelor’s degree in Computer Science from Simon Fraser University, where I built a strong foundation in programming, web technologies, and system design. I'm strongly passionate about continuous learning and creating impactful and reliable software.
 
