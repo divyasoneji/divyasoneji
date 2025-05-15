@@ -55,9 +55,13 @@ Welcome to my GitHub profile! I'm a Software Engineer at Fugro Marine USA with 3
 
 ### **[🔗 PlantCare](https://github.com/CMPT362-PlantCare/PlantCare)**
 **Android** | Simon Fraser University (Sept 2023 - December 2023)  | [Click to download the APK!](https://cmpt362-plantcare.github.io/ShowcaseWebsite/PlantCare.zip)
-- Designed and developed a user-friendly Android app to streamline plant care, enabling users to add plants, receive care instructions, and get timely reminders.
-- Integrated Firebase for real-time data storage, image hosting, and secure user authentication (sign-up/login).
-- Built using **Kotlin**, following best practices and architecture guidelines from the **Google Developers** site to ensure scalability and maintainability.
+- Built a user-friendly Android app using Kotlin and Android SDK.
+- Implemented features for adding and managing plant entries.
+- Enabled species-specific care instructions and watering reminders via push notifications.
+- Utilized Firebase Realtime Database for dynamic data storage.
+- Integrated Firebase Storage for hosting plant images.
+- Followed MVVM architecture and Jetpack components (LiveData, ViewModel, Navigation).
+- Applied best practices from the Google Developers guidelines to ensure scalability and maintainability.
   
 ---
 
