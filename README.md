@@ -9,7 +9,7 @@ I'm a **Software Engineer** from **Vancouver** with **3 years** of industry expe
 ### **Programming Language / Framework / Database Skills:**
 - C#, .NET, Java, JavaScript, TypeScript,  React, Angular, Python, SQL, MongoDB
 
-### **Cloud Technologies & Other Tools**
+### **Cloud Technologies & Other Tools:**
 - GCP, AWS, GitHub, Windows OS, Visual Studio, VS Code, Docker
 
 ---
