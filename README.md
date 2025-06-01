@@ -16,7 +16,7 @@ I'm a **Software Engineer** from **Vancouver** with **3 years** of industry expe
 
 ## 💼 Work Experience
 
-### **Jr. Software Engineer**  
+### **Software Engineer**  
 **Fugro | On-site** (Apr 2023 - Present)  
 - Developed and maintained Windows desktop applications (C#, .NET) for processing & visualizing high-volume LiDAR point clouds.
 - Automated CI/CD pipelines for several projects using GitHub Actions.
