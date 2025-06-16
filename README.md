@@ -1,16 +1,16 @@
 # Hello, I'm Divya Soneji 👋
 
-I'm a **Software Engineer** from **Vancouver** with **3 years** of industry experience in developing and maintaining scalable web and desktop applications. I specialize in C#, .NET, TypeScript, React, and Python. I hold a **BSc. Degree in Computer Science** from **Simon Fraser University** and I'm fascinated by large-scale, high-impact products that drive innovation!
+I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry experience in developing and maintaining scalable web and desktop applications. I specialize in C#, .NET, TypeScript, React, and Python. I hold a **BSc. Degree in Computer Science** from **Simon Fraser University** and I'm fascinated by large-scale, high-impact products that drive innovation!
 
 ---
 
 ## 💻 Skills
 
 ### **Programming Language / Framework / Database Skills:**
-- C#, .NET, Java, JavaScript, TypeScript,  React, Angular, Python, SQL, MongoDB
+- C#, .NET, Java, JavaScript, TypeScript,  React, Angular, Python, SQL
 
 ### **Cloud Technologies & Other Tools:**
-- GCP, AWS, Git, Visual Studio, VS Code, Docker, Firebase
+- GCP, AWS, Git, Visual Studio, VS Code, Docker, Firebase, MongoDB
 
 ---
 
@@ -18,21 +18,21 @@ I'm a **Software Engineer** from **Vancouver** with **3 years** of industry expe
 
 ### **Software Engineer**  
 **Fugro | On-site** (Apr 2023 - Present)  
-- Developed and maintained Windows desktop applications **(C#, .NET)** for processing & visualizing high-volume LiDAR point clouds.
-- Automated CI/CD pipelines for several projects using **GitHub Actions**.
-- Worked alongside UX/UI designers to improve functionality, optimize interactions, and deliver seamless user experience.
-- Partnered with end-users to troubleshoot mission-critical issues and drive feature enhancements.
-- Transitioned legacy desktop apps to **React & Electron**.
-- Increased code coverage by **over 25%** with **NUnit** tests (C#).
+- Developed and maintained scalable **front-end** components using **React and TypeScript**.
+- Developed and maintained scalable **backend services ** using **.NET and C# ** to support **high-volume** LiDAR data processing and visualization.
+- Designed and **optimized data models** for structured storage, improving retrieval efficiency for large datasets.
+- **Automated CI/CD pipelines** using **GitHub Actions**, streamlining deployment and testing workflows across multiple projects.
+- **Worked alongside UX/UI designers** to improve functionality, optimize interactions, and deliver seamless user experience.
+- Built and maintained **RESTful APIs** for seamless integration between web applications and backend data processing services.
+- **Debugged and resolved** high-priority, mission-critical backend issues to ensure reliability.
 
 ### **Software Intern**  
 **Fugro | Remote** (May 2022 - Apr 2023)  
-- Built dynamic web applications **(.NET, C#, Angular)** to automate marine data acquisition & approval workflows.
-- Created & maintained **API documentation**, defining endpoint parameters, request/response formats, and integration guidelines.
-- Authored technical documents & user guides to improve usability & simplify maintenance.
-- Ensured high-quality releases using TestRail for prerelease testing, identifying & resolving critical issues.
-- Practiced **Agile & SCRUM** methodologies, contributing to sprint planning, daily stand-ups, and retrospectives.
-- Designed scalable, maintainable interfaces using WPF & MVVM.
+- **Increased code coverage** by **over 25% **with NUnit tests (C#).
+- Created and maintained **API documentation**, defining endpoint parameters, request/response formats, and integration guidelines.
+- Implemented and enhanced **ETL data pipelines **for automated acquisition and approval workflows, improving operational efficiency.
+- Worked with **relational** and **NoSQL databases**, designing efficient data storage solutions to support business operations.
+- Practiced** Agile & Scrum methodologies**, participating in sprint planning, daily stand-ups, and retrospectives to drive continuous improvement.
 
 ---
 
