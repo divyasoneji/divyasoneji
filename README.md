@@ -28,11 +28,11 @@ I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry exp
 
 ### **Software Intern**  
 **Fugro | Remote** (May 2022 - Apr 2023)  
-- **Increased code coverage** by **over 25% **with NUnit tests (C#).
+- **Increased code coverage** by **over 25%** with NUnit tests (C#).
 - Created and maintained **API documentation**, defining endpoint parameters, request/response formats, and integration guidelines.
-- Implemented and enhanced **ETL data pipelines **for automated acquisition and approval workflows, improving operational efficiency.
+- Implemented and enhanced **ETL data pipelines** for automated acquisition and approval workflows, improving operational efficiency.
 - Worked with **relational** and **NoSQL databases**, designing efficient data storage solutions to support business operations.
-- Practiced** Agile & Scrum methodologies**, participating in sprint planning, daily stand-ups, and retrospectives to drive continuous improvement.
+- Practiced **Agile & Scrum methodologies**, participating in sprint planning, daily stand-ups, and retrospectives to drive continuous improvement.
 
 ---
 
