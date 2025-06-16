@@ -19,7 +19,7 @@ I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry exp
 ### **Software Engineer**  
 **Fugro | On-site** (Apr 2023 - Present)  
 - Developed and maintained scalable **front-end** components using **React and TypeScript**.
-- Developed and maintained scalable **backend services ** using **.NET and C# ** to support **high-volume** LiDAR data processing and visualization.
+- Developed and maintained scalable **backend services** using **.NET and C#** to support **high-volume** LiDAR data processing and visualization.
 - Designed and **optimized data models** for structured storage, improving retrieval efficiency for large datasets.
 - **Automated CI/CD pipelines** using **GitHub Actions**, streamlining deployment and testing workflows across multiple projects.
 - **Worked alongside UX/UI designers** to improve functionality, optimize interactions, and deliver seamless user experience.
