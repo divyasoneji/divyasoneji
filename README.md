@@ -2,17 +2,7 @@
 
 I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry experience in developing and maintaining scalable web and desktop applications. I specialize in C#, .NET, TypeScript, React, and Python. I hold a **BSc. Degree in Computer Science** from **Simon Fraser University** and I'm fascinated by large-scale, high-impact products that drive innovation!
 
-#### **Check out my [personal website](https://divyasoneji.com)  to learn more about my background! 🌸**
-
----
-
-## 💻 Tech Stack
-
-### **Programming Languages & Frameworks:**
-- C#  |  .NET  |  Java  |  JavaScript  |  TypeScript  |  React  |  Angular  |  Python  |  SQL
-
-### **Cloud Technologies & Other Tools:**
-- GCP  |  Git  |  Visual Studio  |  VS Code  |  Docker  |  Firebase  |  MongoDB
+#### **Check out my [personal website](https://divyasoneji.com)  to learn more about my background!**
 
 ---
 
@@ -46,16 +36,6 @@ I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry exp
 - Applied best practices from the Google Developers guidelines to ensure scalability and maintainability.
   
 ---
-
-## 📚 Education & Achievements
-
-- **Simon Fraser University (SFU)**  
-  Bachelor of Science in Computer Science (Sept 2021 - Dec 2023)  
-  - _Ken Caple Transfer Scholarship Recipient_
-  - _Dean's Honor Roll Recipient_
-
-- **Langara College**  
-  Associate’s Degree in Computer Science (Jan 2019 - Apr 2021)  
 
 ## 🌟 Let's Connect!
 
