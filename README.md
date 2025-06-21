@@ -2,15 +2,17 @@
 
 I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry experience in developing and maintaining scalable web and desktop applications. I specialize in C#, .NET, TypeScript, React, and Python. I hold a **BSc. Degree in Computer Science** from **Simon Fraser University** and I'm fascinated by large-scale, high-impact products that drive innovation!
 
+#### **Check out my [personal website](https://divyasoneji.com)  to learn more about my background! 🌸**
+
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
-### **Programming Language / Framework / Database Skills:**
-- C#, .NET, Java, JavaScript, TypeScript,  React, Angular, Python, SQL
+### **Programming Languages & Frameworks:**
+- C#  |  .NET  |  Java  |  JavaScript  |  TypeScript  |  React  |  Angular  |  Python  |  SQL
 
 ### **Cloud Technologies & Other Tools:**
-- GCP, AWS, Git, Visual Studio, VS Code, Docker, Firebase, MongoDB
+- GCP  |  Git  |  Visual Studio  |  VS Code  |  Docker  |  Firebase  |  MongoDB
 
 ---
 
@@ -26,7 +28,7 @@ I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry exp
 - Hosted app and media on **GCP Compute Engine** and **Cloud Storage**.
 
 ### **[🔗 CRADLE](https://github.com/drbfraser/CRADLE-Platform)**  
-**Frontend** | SFU Special Research Projects (May 2023 - Aug 2023)
+**Full-Stack** | SFU Special Research Projects (May 2023 - Aug 2023)
 - Developed a **React & TypeScript** interface for automating form template creation.  
 - Created backend endpoints with **Python** and **Flask** for seamless data flow.
 - Executed **MySQL** schema migrations using Alembic, ensuring efficient data transitions in an InnoDB environment.
