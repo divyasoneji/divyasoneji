@@ -45,28 +45,6 @@ I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry exp
   
 ---
 
-## 💼 Work Experience
-
-### **Software Engineer**  
-**Fugro | On-site** (Apr 2023 - Present)  
-- Developed and maintained scalable **front-end** components using **React and TypeScript**.
-- Developed and maintained scalable **backend services** using **.NET and C#** to support **high-volume** LiDAR data processing and visualization.
-- Designed and **optimized data models** for structured storage, improving retrieval efficiency for large datasets.
-- **Automated CI/CD pipelines** using **GitHub Actions**, streamlining deployment and testing workflows across multiple projects.
-- **Worked alongside UX/UI designers** to improve functionality, optimize interactions, and deliver seamless user experience.
-- Built and maintained **RESTful APIs** for seamless integration between web applications and backend data processing services.
-- **Debugged and resolved** high-priority, mission-critical backend issues to ensure reliability.
-
-### **Software Intern**  
-**Fugro | Remote** (May 2022 - Apr 2023)  
-- **Increased code coverage** by **over 25%** with NUnit tests (C#).
-- Created and maintained **API documentation**, defining endpoint parameters, request/response formats, and integration guidelines.
-- Implemented and enhanced **ETL data pipelines** for automated acquisition and approval workflows, improving operational efficiency.
-- Worked with **relational** and **NoSQL databases**, designing efficient data storage solutions to support business operations.
-- Practiced **Agile & Scrum methodologies**, participating in sprint planning, daily stand-ups, and retrospectives to drive continuous improvement.
-
----
-
 ## 📚 Education & Achievements
 
 - **Simon Fraser University (SFU)**  
