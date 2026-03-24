@@ -1,6 +1,6 @@
 # Hello, I'm Divya Soneji 👋
 
-I'm a **Software Engineer** from **Vancouver** with **2+ years** of industry experience in developing and maintaining scalable web and desktop applications. I specialize in C#, .NET, TypeScript, React, and Python. I hold a **BSc. Degree in Computer Science** from **Simon Fraser University** and I'm fascinated by large-scale, high-impact products that drive innovation!
+I'm a **Software Engineer** from **Vancouver** with **3 years** of industry experience in developing and maintaining scalable web and desktop applications. I specialize in C#, .NET, TypeScript, React, and Python. I hold a **BSc. Degree in Computer Science** from **Simon Fraser University** and I'm fascinated by large-scale, high-impact products that drive innovation!
 
 #### **Check out my [personal website](https://divyasoneji.com)  to learn more about my background!**
 
